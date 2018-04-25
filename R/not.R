@@ -1,0 +1,3 @@
+#' @noRd
+#' @export
+not <- `!`

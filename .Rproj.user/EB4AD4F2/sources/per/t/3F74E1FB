@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1516321467279.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3445652151",
+    "id" : "3F74E1FB",
+    "lastKnownWriteTime" : 1516321472,
+    "last_content_update" : 1516321472966,
+    "path" : "~/Dropbox (BAAQMD)/R-packages/funtools/R/all_same.R",
+    "project_path" : "R/all_same.R",
+    "properties" : {
+        "cursorPosition" : "4,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

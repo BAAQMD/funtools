@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1516321540870.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2513655942",
+    "id" : "18C2A91C",
+    "lastKnownWriteTime" : 1516321547,
+    "last_content_update" : 1516321547632,
+    "path" : "~/Dropbox (BAAQMD)/R-packages/funtools/R/md5.R",
+    "project_path" : "R/md5.R",
+    "properties" : {
+        "cursorPosition" : "10,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1516321484222.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3904977849",
+    "id" : "8DDE3AC",
+    "lastKnownWriteTime" : 1516321488,
+    "last_content_update" : 1516321488752,
+    "path" : "~/Dropbox (BAAQMD)/R-packages/funtools/R/all_true.R",
+    "project_path" : "R/all_true.R",
+    "properties" : {
+        "cursorPosition" : "5,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

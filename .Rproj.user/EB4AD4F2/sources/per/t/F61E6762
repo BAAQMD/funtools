@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1516321450950.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "438248756",
+    "id" : "F61E6762",
+    "lastKnownWriteTime" : 1516321456,
+    "last_content_update" : 1516321456518,
+    "path" : "~/Dropbox (BAAQMD)/R-packages/funtools/R/add.R",
+    "project_path" : "R/add.R",
+    "properties" : {
+        "cursorPosition" : "4,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
