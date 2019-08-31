@@ -15,7 +15,3 @@ sum_of <- function (...) {
   restored <- unlist(t(reduced))
   return(restored)
 }
-
-mutate(iris, foo = sum_of(Sepal.Length, Sepal.Width))
-mutate(iris, foo = sum_of(vars(matches("Sepal"))))
-#mtcars %>% mutate(foo := sum_of(cyl, mpg))
