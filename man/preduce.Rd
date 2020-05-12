@@ -12,10 +12,6 @@ preduce(.x, .f, ...)
 \item{.f}{see [reduce]}
 
 \item{...}{see [reduce]}
-
-\item{.init}{see [reduce]}
-
-\item{dir}{see [reduce]}
 }
 \description{
 Parallel reduce

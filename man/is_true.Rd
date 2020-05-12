@@ -6,6 +6,13 @@
 \usage{
 is_true(x)
 }
+\arguments{
+\item{x}{vector}
+}
 \description{
 Vectorized isTRUE
+}
+\seealso{
+- [all_true()]
+- [rlang::is_true()]
 }

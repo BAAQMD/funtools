@@ -1,5 +1,9 @@
 #' Parallel sum, with tidyselect
 #'
+#' @param ... objects that can be passed to [sum()]
+#'
+#' @importFrom purrr pmap
+#'
 #' @examples
 #' library(dplyr)
 #' mutate(mtcars, foo := sum_of(cyl, mpg))
@@ -11,7 +15,7 @@ sum_of <- function (...) {
   #return(NULL
   lst <- list(...)
   transposed <- t(lst)
-  reduced <- pmap(transposed, sum)
+  reduced <- purrr::pmap(transposed, sum)
   restored <- unlist(t(reduced))
   return(restored)
 }

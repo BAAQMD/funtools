@@ -6,6 +6,9 @@
 \usage{
 sum_of(...)
 }
+\arguments{
+\item{...}{objects that can be passed to [sum()]}
+}
 \description{
 Parallel sum, with tidyselect
 }

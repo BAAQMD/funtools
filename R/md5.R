@@ -4,6 +4,7 @@
 #' @param \dots further arguments to \code{digest::digest}
 #'
 #' @return MD5 digest (a.k.a. hash) of \code{x}
+#'
 #' @importFrom digest digest
 #'
 #' @export

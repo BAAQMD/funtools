@@ -7,6 +7,9 @@
 #'
 #' @return double precision
 #'
+#' @importFrom lazyeval lazy_dots lazy_eval
+#' @importFrom purrr pmap_dbl
+#'
 #' @export
 pmean <- function (..., na.rm = TRUE) {
   dots <- lazyeval::lazy_dots(...)

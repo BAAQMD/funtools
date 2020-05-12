@@ -8,6 +8,8 @@ rbind_list(.x = list(), ...)
 }
 \arguments{
 \item{.x}{a list of rbind-able objects}
+
+\item{...}{passed to [rbind()]}
 }
 \description{
 Combine R Objects by Rows

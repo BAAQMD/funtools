@@ -1,3 +1,6 @@
-#' @noRd
+#' not
+#'
+#' Simple negation
+#'
 #' @export
 not <- `!`
