@@ -6,8 +6,8 @@
 #' - [all_true()]
 #' - [rlang::is_true()]
 #'
-#' @export
 is_true <- function (x) {
-  .Deprecated("all_true or isTRUE or rlang::is_true")
+  .Defunct()
+  #.Deprecated("all_true or isTRUE or rlang::is_true")
   vapply(x, FUN = isTRUE, FUN.VALUE = TRUE)
 }
