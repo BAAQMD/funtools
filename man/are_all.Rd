@@ -20,6 +20,7 @@ are_all(e1, e2, na.rm = FALSE)
 Test whether two vectors are equal
 }
 \examples{
+\dontrun{
 c("foo", "foo") \%>\% are_all("foo")
-
+}
 }

@@ -7,8 +7,9 @@
 #' @return \code{TRUE} or \code{FALSE} (\code{NA}s will yield \code{FALSE} unless \code{na.rm = TRUE})
 #'
 #' @examples
+#' \dontrun{
 #' c("foo", "foo") %>% are_all("foo")
-#'
+#' }
 #' @export
 are_all <- function (e1, e2, na.rm = FALSE) {
   isTRUE(all(e1 == e2, na.rm = na.rm))
