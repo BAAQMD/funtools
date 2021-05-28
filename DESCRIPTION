@@ -1,22 +1,21 @@
 Package: funtools
 Type: Package
 Title: Provides Functional Building Blocks 
-Version: 2021.02.12
+Version: 2021.05.27
 Author: David Holstius
 Maintainer: David Holstius <dholstius@baaqmd.gov>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
 License: CC0
-Depends: 
-  purrr,
-  rlang
 Imports:
+  rlang,
+  purrr,
   digest,
-  lazyeval
+  lazyeval,
+  dplyr
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.1.1
 Suggests: 
     tidyverse,
-    testthat (>= 2.1.0),
-    dplyr
+    testthat (>= 2.1.0)
