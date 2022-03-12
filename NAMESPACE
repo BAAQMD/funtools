@@ -2,6 +2,7 @@
 
 export("%not_in%")
 export(add)
+export(add_quietly)
 export(all_same)
 export(all_true)
 export(are_all)
