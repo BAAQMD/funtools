@@ -1,6 +1,7 @@
 #' @importFrom dplyr progress_estimated
 #' @importFrom purrr map
 progressively_map <- function (df, fun, ...) {
+  .Defunct("progressively")
   pb <- dplyr::progress_estimated(n = nrow(df))
   f <- function (..., .pb = NULL) {
     if ((!is.null(.pb)) && (.pb$i < .pb$n)) .pb$tick()$print()

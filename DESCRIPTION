@@ -1,7 +1,7 @@
 Package: funtools
 Type: Package
 Title: Provides Functional Building Blocks 
-Version: 2021.05.27
+Version: 2022.03.11
 Author: David Holstius
 Maintainer: David Holstius <dholstius@baaqmd.gov>
 Description: More about what it does (maybe more than one line)
@@ -15,7 +15,7 @@ Imports:
   dplyr
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 7.1.1
+RoxygenNote: 7.1.2
 Suggests: 
     tidyverse,
     testthat (>= 2.1.0)
